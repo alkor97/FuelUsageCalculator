@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Kalkulator zużycia paliwa</string>
+	<string name="action_settings">Ustawienia</string>
+	<string name="add_entry">Zapisz</string>
+	<string name="odometer">Przebieg</string>
+	<string name="volume">Objętość</string>
+	<string name="error_loading_entries">Błąd podczas ładowania danych.</string>
+	<string name="error_saving_entries">Błąd podczas zapisu danych.</string>
+	<string name="confirm_delete">Naprawdę usunąć?</string>
+	<string name="confirm_yes">Tak</string>
+</resources>

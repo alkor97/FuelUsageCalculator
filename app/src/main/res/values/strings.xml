@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fuel Usage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="odometer">Odometer</string>
+    <string name="volume">Volume</string>
+    <string name="add_entry">Save</string>
+    <string name="error_loading_entries">Error while loading entries.</string>
+    <string name="error_saving_entries">Error while saving entries.</string>
+    <string name="entries_tsv_url" translatable="false">http://alkor.info/entries.tsv</string>
+    <string name="confirm_delete">Really delete?</string>
+    <string name="confirm_yes">Yes</string>
+</resources>
